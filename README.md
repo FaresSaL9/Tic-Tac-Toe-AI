@@ -12,3 +12,7 @@ In this project, I implemented the Tic-Tac-Toe game using the **Minimax Algorith
 ## How to Run
 1. Install pygame: `pip install pygame`
 2. Run the game: `python runner.py`
+
+## Screenshots
+![Start Screen](game.png)
+![AI Playing](game2.png)
